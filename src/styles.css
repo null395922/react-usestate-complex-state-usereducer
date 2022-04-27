@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  max-width: 500px;
+}
+
+.annotation {
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.movie {
+  margin-top: 5px;
+}
+
+.add-movie {
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  display: inline-block;
+  width: 150px;
+}
+
+span {
+  width: 150px;
+  display: inline-block;
+  margin-right: 5px;
+}
